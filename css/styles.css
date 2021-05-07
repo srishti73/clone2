@@ -1,0 +1,26 @@
+header{
+    background-image: url(../main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: overlay;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+ a.navbar-brand{
+     color: #fff;
+     text-decoration: none;
+ }
+ a.navbar-brand:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+#share{
+    margin-left: 55%;
+    margin-top: 25%;
+}
+
+#name{
+    color: #fff;
+}
